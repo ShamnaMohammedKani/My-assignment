@@ -1,0 +1,8 @@
+D:\dotnet Training\Day 4\practice 4.1\practice 4.1\bin\Debug\practice 4.1.exe.config
+D:\dotnet Training\Day 4\practice 4.1\practice 4.1\bin\Debug\practice 4.1.exe
+D:\dotnet Training\Day 4\practice 4.1\practice 4.1\bin\Debug\practice 4.1.pdb
+D:\dotnet Training\Day 4\practice 4.1\practice 4.1\obj\Debug\practice 4.1.csproj.AssemblyReference.cache
+D:\dotnet Training\Day 4\practice 4.1\practice 4.1\obj\Debug\practice 4.1.csproj.SuggestedBindingRedirects.cache
+D:\dotnet Training\Day 4\practice 4.1\practice 4.1\obj\Debug\practice 4.1.csproj.CoreCompileInputs.cache
+D:\dotnet Training\Day 4\practice 4.1\practice 4.1\obj\Debug\practice 4.1.exe
+D:\dotnet Training\Day 4\practice 4.1\practice 4.1\obj\Debug\practice 4.1.pdb
