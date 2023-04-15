@@ -1,0 +1,8 @@
+D:\dotnet Training\Day 1\practice 3\practice 3\obj\Debug\practice 3.csproj.AssemblyReference.cache
+D:\dotnet Training\Day 1\practice 3\practice 3\obj\Debug\practice 3.csproj.SuggestedBindingRedirects.cache
+D:\dotnet Training\Day 1\practice 3\practice 3\obj\Debug\practice 3.csproj.CoreCompileInputs.cache
+D:\dotnet Training\Day 1\practice 3\practice 3\bin\Debug\practice 3.exe.config
+D:\dotnet Training\Day 1\practice 3\practice 3\bin\Debug\practice 3.exe
+D:\dotnet Training\Day 1\practice 3\practice 3\bin\Debug\practice 3.pdb
+D:\dotnet Training\Day 1\practice 3\practice 3\obj\Debug\practice 3.exe
+D:\dotnet Training\Day 1\practice 3\practice 3\obj\Debug\practice 3.pdb

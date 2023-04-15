@@ -1,0 +1,8 @@
+D:\dotnet Training\Day 2\area of circle 1\area of circle 1\bin\Debug\area of circle 1.exe.config
+D:\dotnet Training\Day 2\area of circle 1\area of circle 1\bin\Debug\area of circle 1.exe
+D:\dotnet Training\Day 2\area of circle 1\area of circle 1\bin\Debug\area of circle 1.pdb
+D:\dotnet Training\Day 2\area of circle 1\area of circle 1\obj\Debug\area of circle 1.csproj.AssemblyReference.cache
+D:\dotnet Training\Day 2\area of circle 1\area of circle 1\obj\Debug\area of circle 1.csproj.SuggestedBindingRedirects.cache
+D:\dotnet Training\Day 2\area of circle 1\area of circle 1\obj\Debug\area of circle 1.csproj.CoreCompileInputs.cache
+D:\dotnet Training\Day 2\area of circle 1\area of circle 1\obj\Debug\area of circle 1.exe
+D:\dotnet Training\Day 2\area of circle 1\area of circle 1\obj\Debug\area of circle 1.pdb
