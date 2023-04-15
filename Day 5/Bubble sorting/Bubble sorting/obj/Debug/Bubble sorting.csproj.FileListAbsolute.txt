@@ -1,0 +1,8 @@
+D:\dotnet Training\Day 5\Bubble sorting\Bubble sorting\bin\Debug\Bubble sorting.exe.config
+D:\dotnet Training\Day 5\Bubble sorting\Bubble sorting\bin\Debug\Bubble sorting.exe
+D:\dotnet Training\Day 5\Bubble sorting\Bubble sorting\bin\Debug\Bubble sorting.pdb
+D:\dotnet Training\Day 5\Bubble sorting\Bubble sorting\obj\Debug\Bubble sorting.csproj.AssemblyReference.cache
+D:\dotnet Training\Day 5\Bubble sorting\Bubble sorting\obj\Debug\Bubble sorting.csproj.SuggestedBindingRedirects.cache
+D:\dotnet Training\Day 5\Bubble sorting\Bubble sorting\obj\Debug\Bubble sorting.csproj.CoreCompileInputs.cache
+D:\dotnet Training\Day 5\Bubble sorting\Bubble sorting\obj\Debug\Bubble sorting.exe
+D:\dotnet Training\Day 5\Bubble sorting\Bubble sorting\obj\Debug\Bubble sorting.pdb

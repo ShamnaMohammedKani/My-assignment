@@ -1,0 +1,8 @@
+D:\dotnet Training\Day 5\triangle printing\triangle printing\bin\Debug\triangle printing.exe.config
+D:\dotnet Training\Day 5\triangle printing\triangle printing\bin\Debug\triangle printing.exe
+D:\dotnet Training\Day 5\triangle printing\triangle printing\bin\Debug\triangle printing.pdb
+D:\dotnet Training\Day 5\triangle printing\triangle printing\obj\Debug\triangle printing.csproj.AssemblyReference.cache
+D:\dotnet Training\Day 5\triangle printing\triangle printing\obj\Debug\triangle printing.csproj.SuggestedBindingRedirects.cache
+D:\dotnet Training\Day 5\triangle printing\triangle printing\obj\Debug\triangle printing.csproj.CoreCompileInputs.cache
+D:\dotnet Training\Day 5\triangle printing\triangle printing\obj\Debug\triangle printing.exe
+D:\dotnet Training\Day 5\triangle printing\triangle printing\obj\Debug\triangle printing.pdb
