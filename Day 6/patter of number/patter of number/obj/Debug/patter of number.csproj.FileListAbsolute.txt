@@ -1,0 +1,8 @@
+D:\dotnet Training\Day 6\patter of number\patter of number\bin\Debug\patter of number.exe.config
+D:\dotnet Training\Day 6\patter of number\patter of number\bin\Debug\patter of number.exe
+D:\dotnet Training\Day 6\patter of number\patter of number\bin\Debug\patter of number.pdb
+D:\dotnet Training\Day 6\patter of number\patter of number\obj\Debug\patter of number.csproj.AssemblyReference.cache
+D:\dotnet Training\Day 6\patter of number\patter of number\obj\Debug\patter of number.csproj.SuggestedBindingRedirects.cache
+D:\dotnet Training\Day 6\patter of number\patter of number\obj\Debug\patter of number.csproj.CoreCompileInputs.cache
+D:\dotnet Training\Day 6\patter of number\patter of number\obj\Debug\patter of number.exe
+D:\dotnet Training\Day 6\patter of number\patter of number\obj\Debug\patter of number.pdb

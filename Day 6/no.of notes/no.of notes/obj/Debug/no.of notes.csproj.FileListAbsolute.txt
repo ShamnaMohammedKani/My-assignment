@@ -1,0 +1,8 @@
+D:\dotnet Training\Day 6\no.of notes\no.of notes\bin\Debug\no.of notes.exe.config
+D:\dotnet Training\Day 6\no.of notes\no.of notes\bin\Debug\no.of notes.exe
+D:\dotnet Training\Day 6\no.of notes\no.of notes\bin\Debug\no.of notes.pdb
+D:\dotnet Training\Day 6\no.of notes\no.of notes\obj\Debug\no.of notes.csproj.AssemblyReference.cache
+D:\dotnet Training\Day 6\no.of notes\no.of notes\obj\Debug\no.of notes.csproj.SuggestedBindingRedirects.cache
+D:\dotnet Training\Day 6\no.of notes\no.of notes\obj\Debug\no.of notes.csproj.CoreCompileInputs.cache
+D:\dotnet Training\Day 6\no.of notes\no.of notes\obj\Debug\no.of notes.exe
+D:\dotnet Training\Day 6\no.of notes\no.of notes\obj\Debug\no.of notes.pdb
