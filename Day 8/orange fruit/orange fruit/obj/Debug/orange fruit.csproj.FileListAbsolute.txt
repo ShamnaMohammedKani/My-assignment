@@ -1,0 +1,8 @@
+D:\dotnet Training\Day 8\orange fruit\orange fruit\bin\Debug\orange fruit.exe.config
+D:\dotnet Training\Day 8\orange fruit\orange fruit\bin\Debug\orange fruit.exe
+D:\dotnet Training\Day 8\orange fruit\orange fruit\bin\Debug\orange fruit.pdb
+D:\dotnet Training\Day 8\orange fruit\orange fruit\obj\Debug\orange fruit.csproj.AssemblyReference.cache
+D:\dotnet Training\Day 8\orange fruit\orange fruit\obj\Debug\orange fruit.csproj.SuggestedBindingRedirects.cache
+D:\dotnet Training\Day 8\orange fruit\orange fruit\obj\Debug\orange fruit.csproj.CoreCompileInputs.cache
+D:\dotnet Training\Day 8\orange fruit\orange fruit\obj\Debug\orange fruit.exe
+D:\dotnet Training\Day 8\orange fruit\orange fruit\obj\Debug\orange fruit.pdb
