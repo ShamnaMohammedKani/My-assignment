@@ -1,0 +1,8 @@
+D:\dotnet Training\Day 9\Telephone\Telephone\bin\Debug\Telephone.exe.config
+D:\dotnet Training\Day 9\Telephone\Telephone\bin\Debug\Telephone.exe
+D:\dotnet Training\Day 9\Telephone\Telephone\bin\Debug\Telephone.pdb
+D:\dotnet Training\Day 9\Telephone\Telephone\obj\Debug\Telephone.csproj.AssemblyReference.cache
+D:\dotnet Training\Day 9\Telephone\Telephone\obj\Debug\Telephone.csproj.SuggestedBindingRedirects.cache
+D:\dotnet Training\Day 9\Telephone\Telephone\obj\Debug\Telephone.csproj.CoreCompileInputs.cache
+D:\dotnet Training\Day 9\Telephone\Telephone\obj\Debug\Telephone.exe
+D:\dotnet Training\Day 9\Telephone\Telephone\obj\Debug\Telephone.pdb
