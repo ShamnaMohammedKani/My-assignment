@@ -1,0 +1,8 @@
+D:\dotnet Training\Day 7\Date time\Date time\bin\Debug\Date time.exe.config
+D:\dotnet Training\Day 7\Date time\Date time\bin\Debug\Date time.exe
+D:\dotnet Training\Day 7\Date time\Date time\bin\Debug\Date time.pdb
+D:\dotnet Training\Day 7\Date time\Date time\obj\Debug\Date time.csproj.AssemblyReference.cache
+D:\dotnet Training\Day 7\Date time\Date time\obj\Debug\Date time.csproj.SuggestedBindingRedirects.cache
+D:\dotnet Training\Day 7\Date time\Date time\obj\Debug\Date time.csproj.CoreCompileInputs.cache
+D:\dotnet Training\Day 7\Date time\Date time\obj\Debug\Date time.exe
+D:\dotnet Training\Day 7\Date time\Date time\obj\Debug\Date time.pdb

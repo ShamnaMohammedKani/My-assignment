@@ -1,0 +1,8 @@
+D:\dotnet Training\Day 7\amount\amount\bin\Debug\amount.exe.config
+D:\dotnet Training\Day 7\amount\amount\bin\Debug\amount.exe
+D:\dotnet Training\Day 7\amount\amount\bin\Debug\amount.pdb
+D:\dotnet Training\Day 7\amount\amount\obj\Debug\amount.csproj.AssemblyReference.cache
+D:\dotnet Training\Day 7\amount\amount\obj\Debug\amount.csproj.SuggestedBindingRedirects.cache
+D:\dotnet Training\Day 7\amount\amount\obj\Debug\amount.csproj.CoreCompileInputs.cache
+D:\dotnet Training\Day 7\amount\amount\obj\Debug\amount.exe
+D:\dotnet Training\Day 7\amount\amount\obj\Debug\amount.pdb
