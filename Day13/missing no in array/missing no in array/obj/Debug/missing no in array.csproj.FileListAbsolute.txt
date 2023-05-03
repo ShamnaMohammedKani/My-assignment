@@ -1,0 +1,8 @@
+D:\dotnet Training\Day13\missing no in array\missing no in array\bin\Debug\missing no in array.exe.config
+D:\dotnet Training\Day13\missing no in array\missing no in array\bin\Debug\missing no in array.exe
+D:\dotnet Training\Day13\missing no in array\missing no in array\bin\Debug\missing no in array.pdb
+D:\dotnet Training\Day13\missing no in array\missing no in array\obj\Debug\missing no in array.csproj.AssemblyReference.cache
+D:\dotnet Training\Day13\missing no in array\missing no in array\obj\Debug\missing no in array.csproj.SuggestedBindingRedirects.cache
+D:\dotnet Training\Day13\missing no in array\missing no in array\obj\Debug\missing no in array.csproj.CoreCompileInputs.cache
+D:\dotnet Training\Day13\missing no in array\missing no in array\obj\Debug\missing no in array.exe
+D:\dotnet Training\Day13\missing no in array\missing no in array\obj\Debug\missing no in array.pdb

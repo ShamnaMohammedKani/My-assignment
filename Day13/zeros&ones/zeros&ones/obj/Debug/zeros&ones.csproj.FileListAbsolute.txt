@@ -1,0 +1,8 @@
+D:\dotnet Training\Day13\zeros&ones\zeros&ones\bin\Debug\zeros&ones.exe.config
+D:\dotnet Training\Day13\zeros&ones\zeros&ones\bin\Debug\zeros&ones.exe
+D:\dotnet Training\Day13\zeros&ones\zeros&ones\bin\Debug\zeros&ones.pdb
+D:\dotnet Training\Day13\zeros&ones\zeros&ones\obj\Debug\zeros&ones.csproj.AssemblyReference.cache
+D:\dotnet Training\Day13\zeros&ones\zeros&ones\obj\Debug\zeros&ones.csproj.SuggestedBindingRedirects.cache
+D:\dotnet Training\Day13\zeros&ones\zeros&ones\obj\Debug\zeros&ones.csproj.CoreCompileInputs.cache
+D:\dotnet Training\Day13\zeros&ones\zeros&ones\obj\Debug\zeros&ones.exe
+D:\dotnet Training\Day13\zeros&ones\zeros&ones\obj\Debug\zeros&ones.pdb
