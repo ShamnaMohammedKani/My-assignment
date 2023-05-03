@@ -1,0 +1,8 @@
+D:\dotnet Training\Day 12\finally\finally\bin\Debug\@finally.exe.config
+D:\dotnet Training\Day 12\finally\finally\bin\Debug\@finally.exe
+D:\dotnet Training\Day 12\finally\finally\bin\Debug\@finally.pdb
+D:\dotnet Training\Day 12\finally\finally\obj\Debug\finally.csproj.AssemblyReference.cache
+D:\dotnet Training\Day 12\finally\finally\obj\Debug\finally.csproj.SuggestedBindingRedirects.cache
+D:\dotnet Training\Day 12\finally\finally\obj\Debug\finally.csproj.CoreCompileInputs.cache
+D:\dotnet Training\Day 12\finally\finally\obj\Debug\@finally.exe
+D:\dotnet Training\Day 12\finally\finally\obj\Debug\@finally.pdb

@@ -1,0 +1,8 @@
+D:\dotnet Training\Day 12\Deligates\Deligates\bin\Debug\Deligates.exe.config
+D:\dotnet Training\Day 12\Deligates\Deligates\bin\Debug\Deligates.exe
+D:\dotnet Training\Day 12\Deligates\Deligates\bin\Debug\Deligates.pdb
+D:\dotnet Training\Day 12\Deligates\Deligates\obj\Debug\Deligates.csproj.AssemblyReference.cache
+D:\dotnet Training\Day 12\Deligates\Deligates\obj\Debug\Deligates.csproj.SuggestedBindingRedirects.cache
+D:\dotnet Training\Day 12\Deligates\Deligates\obj\Debug\Deligates.csproj.CoreCompileInputs.cache
+D:\dotnet Training\Day 12\Deligates\Deligates\obj\Debug\Deligates.exe
+D:\dotnet Training\Day 12\Deligates\Deligates\obj\Debug\Deligates.pdb
