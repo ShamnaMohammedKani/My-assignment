@@ -1,0 +1,8 @@
+D:\dotnet Training\Day17\Songplaylist\Songplaylist\bin\Debug\Songplaylist.exe.config
+D:\dotnet Training\Day17\Songplaylist\Songplaylist\bin\Debug\Songplaylist.exe
+D:\dotnet Training\Day17\Songplaylist\Songplaylist\bin\Debug\Songplaylist.pdb
+D:\dotnet Training\Day17\Songplaylist\Songplaylist\obj\Debug\Songplaylist.csproj.AssemblyReference.cache
+D:\dotnet Training\Day17\Songplaylist\Songplaylist\obj\Debug\Songplaylist.csproj.SuggestedBindingRedirects.cache
+D:\dotnet Training\Day17\Songplaylist\Songplaylist\obj\Debug\Songplaylist.csproj.CoreCompileInputs.cache
+D:\dotnet Training\Day17\Songplaylist\Songplaylist\obj\Debug\Songplaylist.exe
+D:\dotnet Training\Day17\Songplaylist\Songplaylist\obj\Debug\Songplaylist.pdb
