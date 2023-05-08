@@ -1,0 +1,3 @@
+D:\dotnet Training\Day23\lambda\lambda\obj\Debug\extension.csproj.AssemblyReference.cache
+D:\dotnet Training\Day23\lambda\lambda\obj\Debug\extension.csproj.SuggestedBindingRedirects.cache
+D:\dotnet Training\Day23\lambda\lambda\obj\Debug\extension.csproj.CoreCompileInputs.cache
