@@ -1,0 +1,8 @@
+D:\dotnet Training\Day23\ExtensionMethod2\ExtensionMethod2\bin\Debug\ExtensionMethod2.exe.config
+D:\dotnet Training\Day23\ExtensionMethod2\ExtensionMethod2\bin\Debug\ExtensionMethod2.exe
+D:\dotnet Training\Day23\ExtensionMethod2\ExtensionMethod2\bin\Debug\ExtensionMethod2.pdb
+D:\dotnet Training\Day23\ExtensionMethod2\ExtensionMethod2\obj\Debug\ExtensionMethod2.csproj.AssemblyReference.cache
+D:\dotnet Training\Day23\ExtensionMethod2\ExtensionMethod2\obj\Debug\ExtensionMethod2.csproj.SuggestedBindingRedirects.cache
+D:\dotnet Training\Day23\ExtensionMethod2\ExtensionMethod2\obj\Debug\ExtensionMethod2.csproj.CoreCompileInputs.cache
+D:\dotnet Training\Day23\ExtensionMethod2\ExtensionMethod2\obj\Debug\ExtensionMethod2.exe
+D:\dotnet Training\Day23\ExtensionMethod2\ExtensionMethod2\obj\Debug\ExtensionMethod2.pdb

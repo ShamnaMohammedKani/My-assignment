@@ -1,0 +1,15 @@
+D:\dotnet Training\Day23\MyApp\bin\Debug\net7.0\MyApp.exe
+D:\dotnet Training\Day23\MyApp\bin\Debug\net7.0\MyApp.deps.json
+D:\dotnet Training\Day23\MyApp\bin\Debug\net7.0\MyApp.runtimeconfig.json
+D:\dotnet Training\Day23\MyApp\bin\Debug\net7.0\MyApp.dll
+D:\dotnet Training\Day23\MyApp\bin\Debug\net7.0\MyApp.pdb
+D:\dotnet Training\Day23\MyApp\obj\Debug\net7.0\MyApp.csproj.AssemblyReference.cache
+D:\dotnet Training\Day23\MyApp\obj\Debug\net7.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet Training\Day23\MyApp\obj\Debug\net7.0\MyApp.AssemblyInfoInputs.cache
+D:\dotnet Training\Day23\MyApp\obj\Debug\net7.0\MyApp.AssemblyInfo.cs
+D:\dotnet Training\Day23\MyApp\obj\Debug\net7.0\MyApp.csproj.CoreCompileInputs.cache
+D:\dotnet Training\Day23\MyApp\obj\Debug\net7.0\MyApp.dll
+D:\dotnet Training\Day23\MyApp\obj\Debug\net7.0\refint\MyApp.dll
+D:\dotnet Training\Day23\MyApp\obj\Debug\net7.0\MyApp.pdb
+D:\dotnet Training\Day23\MyApp\obj\Debug\net7.0\MyApp.genruntimeconfig.cache
+D:\dotnet Training\Day23\MyApp\obj\Debug\net7.0\ref\MyApp.dll

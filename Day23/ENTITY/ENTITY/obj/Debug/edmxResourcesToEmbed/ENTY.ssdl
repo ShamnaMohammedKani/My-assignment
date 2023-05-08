@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ENTModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Dpt">
+    <Key>
+      <PropertyRef Name="DeptID" />
+    </Key>
+    <Property Name="DeptID" Type="int" Nullable="false" />
+    <Property Name="DeptName" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'ENT.dbo.EMP1' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="EMP1">
+    <Key>
+      <PropertyRef Name="EmpID" />
+      <PropertyRef Name="EmpName" />
+      <PropertyRef Name="DeptID" />
+    </Key>
+    <Property Name="EmpID" Type="int" Nullable="false" />
+    <Property Name="EmpName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="DeptID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="ENTModelStoreContainer">
+    <EntitySet Name="Dpt" EntityType="Self.Dpt" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EMP1" EntityType="Self.EMP1" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [EMP1].[EmpID] AS [EmpID], 
+    [EMP1].[EmpName] AS [EmpName], 
+    [EMP1].[DeptID] AS [DeptID]
+    FROM [dbo].[EMP1] AS [EMP1]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,13 @@
+D:\dotnet Training\Day23\ENTITY\ENTITY\bin\Debug\ENTITY.exe.config
+D:\dotnet Training\Day23\ENTITY\ENTITY\bin\Debug\ENTITY.exe
+D:\dotnet Training\Day23\ENTITY\ENTITY\bin\Debug\ENTITY.pdb
+D:\dotnet Training\Day23\ENTITY\ENTITY\bin\Debug\EntityFramework.dll
+D:\dotnet Training\Day23\ENTITY\ENTITY\bin\Debug\EntityFramework.SqlServer.dll
+D:\dotnet Training\Day23\ENTITY\ENTITY\bin\Debug\EntityFramework.xml
+D:\dotnet Training\Day23\ENTITY\ENTITY\bin\Debug\EntityFramework.SqlServer.xml
+D:\dotnet Training\Day23\ENTITY\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+D:\dotnet Training\Day23\ENTITY\ENTITY\obj\Debug\ENTITY.csproj.SuggestedBindingRedirects.cache
+D:\dotnet Training\Day23\ENTITY\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+D:\dotnet Training\Day23\ENTITY\ENTITY\obj\Debug\ENTITY.csproj.CopyComplete
+D:\dotnet Training\Day23\ENTITY\ENTITY\obj\Debug\ENTITY.exe
+D:\dotnet Training\Day23\ENTITY\ENTITY\obj\Debug\ENTITY.pdb
