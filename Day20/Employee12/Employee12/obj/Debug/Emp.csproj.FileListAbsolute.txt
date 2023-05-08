@@ -1,0 +1,8 @@
+D:\dotnet Training\Day20\Employee12\Employee12\bin\Debug\Employee12.exe.config
+D:\dotnet Training\Day20\Employee12\Employee12\bin\Debug\Employee12.exe
+D:\dotnet Training\Day20\Employee12\Employee12\bin\Debug\Employee12.pdb
+D:\dotnet Training\Day20\Employee12\Employee12\obj\Debug\Emp.csproj.AssemblyReference.cache
+D:\dotnet Training\Day20\Employee12\Employee12\obj\Debug\Emp.csproj.SuggestedBindingRedirects.cache
+D:\dotnet Training\Day20\Employee12\Employee12\obj\Debug\Emp.csproj.CoreCompileInputs.cache
+D:\dotnet Training\Day20\Employee12\Employee12\obj\Debug\Employee12.exe
+D:\dotnet Training\Day20\Employee12\Employee12\obj\Debug\Employee12.pdb
