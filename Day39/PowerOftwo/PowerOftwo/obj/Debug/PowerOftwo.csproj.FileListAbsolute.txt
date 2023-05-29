@@ -1,0 +1,8 @@
+D:\dotnet Training\Day40\PowerOftwo\PowerOftwo\bin\Debug\PowerOftwo.exe.config
+D:\dotnet Training\Day40\PowerOftwo\PowerOftwo\bin\Debug\PowerOftwo.exe
+D:\dotnet Training\Day40\PowerOftwo\PowerOftwo\bin\Debug\PowerOftwo.pdb
+D:\dotnet Training\Day40\PowerOftwo\PowerOftwo\obj\Debug\PowerOftwo.csproj.AssemblyReference.cache
+D:\dotnet Training\Day40\PowerOftwo\PowerOftwo\obj\Debug\PowerOftwo.csproj.SuggestedBindingRedirects.cache
+D:\dotnet Training\Day40\PowerOftwo\PowerOftwo\obj\Debug\PowerOftwo.csproj.CoreCompileInputs.cache
+D:\dotnet Training\Day40\PowerOftwo\PowerOftwo\obj\Debug\PowerOftwo.exe
+D:\dotnet Training\Day40\PowerOftwo\PowerOftwo\obj\Debug\PowerOftwo.pdb
