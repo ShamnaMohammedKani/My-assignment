@@ -1,0 +1,8 @@
+D:\dotnet Training\Day40\regex\regex\bin\Debug\regex.exe.config
+D:\dotnet Training\Day40\regex\regex\bin\Debug\regex.exe
+D:\dotnet Training\Day40\regex\regex\bin\Debug\regex.pdb
+D:\dotnet Training\Day40\regex\regex\obj\Debug\regex.csproj.AssemblyReference.cache
+D:\dotnet Training\Day40\regex\regex\obj\Debug\regex.csproj.SuggestedBindingRedirects.cache
+D:\dotnet Training\Day40\regex\regex\obj\Debug\regex.csproj.CoreCompileInputs.cache
+D:\dotnet Training\Day40\regex\regex\obj\Debug\regex.exe
+D:\dotnet Training\Day40\regex\regex\obj\Debug\regex.pdb
