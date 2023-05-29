@@ -1,0 +1,8 @@
+D:\dotnet Training\Day40\1Darray\1Darray\bin\Debug\1Darray.exe.config
+D:\dotnet Training\Day40\1Darray\1Darray\bin\Debug\1Darray.exe
+D:\dotnet Training\Day40\1Darray\1Darray\bin\Debug\1Darray.pdb
+D:\dotnet Training\Day40\1Darray\1Darray\obj\Debug\1Darray.csproj.AssemblyReference.cache
+D:\dotnet Training\Day40\1Darray\1Darray\obj\Debug\1Darray.csproj.SuggestedBindingRedirects.cache
+D:\dotnet Training\Day40\1Darray\1Darray\obj\Debug\1Darray.csproj.CoreCompileInputs.cache
+D:\dotnet Training\Day40\1Darray\1Darray\obj\Debug\1Darray.exe
+D:\dotnet Training\Day40\1Darray\1Darray\obj\Debug\1Darray.pdb

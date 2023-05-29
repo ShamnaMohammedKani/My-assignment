@@ -1,0 +1,8 @@
+D:\dotnet Training\Day40\anagram\anagram\bin\Debug\anagram.exe.config
+D:\dotnet Training\Day40\anagram\anagram\bin\Debug\anagram.exe
+D:\dotnet Training\Day40\anagram\anagram\bin\Debug\anagram.pdb
+D:\dotnet Training\Day40\anagram\anagram\obj\Debug\anagram.csproj.AssemblyReference.cache
+D:\dotnet Training\Day40\anagram\anagram\obj\Debug\anagram.csproj.SuggestedBindingRedirects.cache
+D:\dotnet Training\Day40\anagram\anagram\obj\Debug\anagram.csproj.CoreCompileInputs.cache
+D:\dotnet Training\Day40\anagram\anagram\obj\Debug\anagram.exe
+D:\dotnet Training\Day40\anagram\anagram\obj\Debug\anagram.pdb
